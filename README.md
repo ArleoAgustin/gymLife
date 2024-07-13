@@ -1,7 +1,8 @@
-Nombre y apellido: Francisco Krauel, DNI: 41097614
-Email: frankrauel99@gmail.com
-Sede: Tandil
-Aca va una breve descripcion de lo que intente hacer: 
+Nombre y apellido: Francisco Krauel,  
+DNI: 41097614  
+Email: frankrauel99@gmail.com  
+Sede: Tandil  
+Aca va una breve descripcion de lo que intente hacer:   
 GymLife Shop
 Este proyecto es una aplicación web de ventas para un gimnasio que ofrece membresías, accesorios, clases personalizadas y otros productos. La aplicación permite a los usuarios explorar diferentes productos, agregar productos a su carrito de compras y ver el total de su carrito en tiempo real.
 
